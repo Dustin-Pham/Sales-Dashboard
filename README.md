@@ -6,15 +6,17 @@ This dataset contained many columns, so in order to utilize the data, I decided 
 I made many xlsx files and different dashboards, and below is what I found from this dataset.
 
 # Results
-## Sales
 ### East Region
-The East Region had the most total sales sitting at 592.17K. 
+The East Region had the most total sales sitting at 592.17K. Looking deeper into the visualization we can see that Office Supplies had the most sales out of Furniture and Technology. Even though Technology contributes the most to the sum of sales, we discover that the east region focuses more on office supplies. The Average monthly sales was around 104.11. The East region was able to profit 85.29k. For shipping cost we see that delivery truck and regular air spent around the same amount.  
+
 ### West Region
+The East Region had the most total sales sitting at 592.17K. Looking deeper into the visualization we can see that Office Supplies had the most sales out of Furniture and Technology. Even though Technology contributes the most to the sum of sales, we discover that the east region focuses more on office supplies. The Average monthly sales was around 104.11. The East region was able to profit 85.29k. For shipping cost we see that delivery truck and regular air spent around the same amount. 
 
 ### South Region
+The East Region had the most total sales sitting at 592.17K. Looking deeper into the visualization we can see that Office Supplies had the most sales out of Furniture and Technology. Even though Technology contributes the most to the sum of sales, we discover that the east region focuses more on office supplies. The Average monthly sales was around 104.11. The East region was able to profit 85.29k. For shipping cost we see that delivery truck and regular air spent around the same amount. 
 
 ### Central Region
-
+The East Region had the most total sales sitting at 592.17K. Looking deeper into the visualization we can see that Office Supplies had the most sales out of Furniture and Technology. Even though Technology contributes the most to the sum of sales, we discover that the east region focuses more on office supplies. The Average monthly sales was around 104.11. The East region was able to profit 85.29k. For shipping cost we see that delivery truck and regular air spent around the same amount. 
 
 ## Quantity
 
