@@ -18,3 +18,4 @@ The South Region contributed 357.11K to the total sales. Looking deeper into the
 ### Central Region
 The Central Region had the most total sales sitting at 448.28K. Looking deeper into the visualization we can see that technology had the most sales out of Furniture and office supplies. We also find out that the central region spent the most money on shipping cost, even though they didnt generate the most sales. The Average monthly sales was around 66. The central region was able to profit 77.37k. 
 
+![image](https://github.com/Dustin-Pham/Sales-Dashboard/assets/110316426/808c666c-0a86-4c66-8eb1-fd827b34780a)
