@@ -7,3 +7,7 @@ I made many xlsx files and different dashboards, and below is what I found from 
 
 # Results
 ## Sales
+
+## Quantity
+
+
