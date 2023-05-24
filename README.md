@@ -7,7 +7,16 @@ I made many xlsx files and different dashboards, and below is what I found from 
 
 # Results
 ## Sales
+### East Region
+The East Region had the most total sales sitting at 592.17K. 
+### West Region
+
+### South Region
+
+### Central Region
+
 
 ## Quantity
 
+## Shipping
 
