@@ -1,5 +1,3 @@
-# Sales-Practice-Dashboard
-
 # Goal
 Identify data from dataset, analyze data from data set, interpret the data in ways that it could be useful
 
