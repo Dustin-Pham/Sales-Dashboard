@@ -1,4 +1,6 @@
 ![image](https://github.com/Dustin-Pham/Sales-Dashboard/assets/110316426/808c666c-0a86-4c66-8eb1-fd827b34780a)
+![image](https://github.com/Dustin-Pham/Sales-Dashboard/assets/110316426/3fba50bc-253e-41a7-a9ed-6ac39fe5e1da)
+
 # Goal
 Identify data from dataset, analyze data from data set, interpret the data in ways that it could be useful
 
