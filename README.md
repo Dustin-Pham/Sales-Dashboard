@@ -2,7 +2,8 @@
 ![image](https://github.com/Dustin-Pham/Sales-Dashboard/assets/110316426/3fba50bc-253e-41a7-a9ed-6ac39fe5e1da)
 
 # Goal
-Identify data from dataset, analyze data from data set, interpret the data in ways that it could be useful
+Identify data from random dataset, analyze data from data set, interpret the data in ways that it could be useful. 
+Data: https://powerbidocs.com/2019/11/28/power-bi-sample-data-set-for-practice/
 
 # Summary
 This dataset contained many columns, so in order to utilize the data, I decided to drop some unecessary columns. There's a lot of info that could be found from this dataset so in order to use clean and narrow the data down in order to utizilize for data visualization, I used SQL.
